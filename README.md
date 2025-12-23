@@ -33,7 +33,7 @@ Based on real user behavior data from an e-commerce platform (Taobao), this proj
 ### Q2: Conversion Funnel Analysis (Macro Churn Diagnosis)
 
 * **Goal:** Identify the maximum churn points from browsing to purchasing.
-* **Key Chart:** Conversion Funnel ([funnel_chart.png](Problem 2.png)
+* **Key Chart:** Conversion Funnel [funnel_chart.png](Problem_2.png)
 
 | Funnel Stage | Conversion Rate | Diagnosis & Focus |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ Based on real user behavior data from an e-commerce platform (Taobao), this proj
 ### Q3: Hourly Traffic vs. Efficiency Analysis
 
 * **Goal:** Distinguish between traffic scale and purchase efficiency to guide precise resource allocation.
-* **Key Chart:** Hourly Trends ([hourly_trends.png](Problem 3.png))
+* **Key Chart:** Hourly Trends ([hourly_trends.png](Problem_3.png))
 
 | Time Period | Metric | Findings | Operational Strategy |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Based on real user behavior data from an e-commerce platform (Taobao), this proj
 
 * **Goal:** Segment users based on value to formulate differentiated marketing strategies.
 * **Method:** Adopted the **R-F Model** (Recency-Frequency) to divide users into 6 major groups.
-* **Key Chart:** RFM Treemap ([RFM_segmentation.png](Problem 4.png))
+* **Key Chart:** RFM Treemap ([RFM_segmentation.png](Problem_4.png))
 
 | RFM Group | Share | Core Characteristics | Marketing Strategy |
 | :--- | :--- | :--- | :--- |
